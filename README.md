@@ -1,5 +1,7 @@
 # (ORM): E-Commerce Back End ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
+![Screenshot](ScreenShot.png)
+
 # Description
 
     To build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
